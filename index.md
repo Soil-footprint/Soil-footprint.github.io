@@ -32,6 +32,12 @@ A larger soil footprint indicates significant soil erosion, which can lead to de
 
 [Soil footprint Github repository](https://github.com/Soil-footprint)
 
+## Online questionnaire
+
+[Soil footprint questionnaire](https://docs.google.com/forms/d/e/1FAIpQLScVE3zPnUdXt65AjO3m6f15aVcy1WSm6C_ElWuUd9qzGDlYDw/viewform?usp=sf_link)
+
+[Encuesta en español](https://docs.google.com/forms/d/e/1FAIpQLSdwH7tF1xyY0JXaccqEDoxydr9HqjI8l9a1lpici4cXrs37qQ/viewform?usp=sf_link)
+
 ## Citation
 
 https://doi.org/10.1016/j.soisec.2024.100156
