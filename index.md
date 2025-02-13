@@ -28,7 +28,7 @@ The soil footprint quantifies the amount of soil lost during cultivation, offeri
 
 A larger soil footprint indicates significant soil erosion, which can lead to devastating losses in essential nutrients, biodiversity, and the soil’s ability to retain water.
 
-## Github repository
+## Soil-footprint Notebooks
 
 [Soil footprint Github repository](https://github.com/Soil-footprint)
 
@@ -41,5 +41,5 @@ This work was supported by the project “Soil footprint, a simple indicator to 
 
 &nbsp;
 <div class="row">
-  <img src="images/UCO_logo.png" alt="UCO logo" style="width:20%;" hspace="20"> <img src="images/soil_footprint_logo.png" alt="Soil_footprint logo" style="width:25%;" hspace="00">
+  <img src="images/UCO_logo.png" alt="UCO logo" style="width:20%;" hspace="20"> <img src="images/soil_footprint_logo.png" alt="Soil_footprint logo" style="width:10%;" hspace="00">
 <div >
