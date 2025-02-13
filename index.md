@@ -30,9 +30,15 @@ A larger soil footprint indicates significant soil erosion, which can lead to de
 
 ## Soil-footprint Notebooks
 
+You can run the Notebooks online just by clicking on these links:
+
+[Understanding the Soil Footprint of Our Diet](https://mybinder.org/v2/gh/Soil-footprint/Soil-footprint/HEAD?urlpath=notebooks/The%20soil%20footprint%20in%20our%20diet.ipynb)
+
+[The Soil footprint of food consumption in Spain](https://mybinder.org/v2/gh/Soil-footprint/Soil-footprint/HEAD?urlpath=notebooks/The%20soil%20footprint%20in%20Spain.ipynb)
+
 [Soil footprint Github repository](https://github.com/Soil-footprint)
 
-## Online questionnaire
+## Online questionnaire: we would like to know your opinion about the soil footprint
 
 [Soil footprint questionnaire](https://docs.google.com/forms/d/e/1FAIpQLScVE3zPnUdXt65AjO3m6f15aVcy1WSm6C_ElWuUd9qzGDlYDw/viewform?usp=sf_link)
 
