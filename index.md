@@ -2,58 +2,44 @@
 nav: false
 ---
 
-[<img src="huella_suelo_cajas_olivas.jpg" alt="huella del suelo" style="width:50%;" >](./index.md/)
+[<img src="images/soil_footprint_logo3.png" alt="huella del suelo" style="width:50%;" >](./index.md/)
 
-iMPACT-erosion is a project that aims to **democratise** soil erosion modelling by fostering a more **educational, playful and exploratory** experience. To achieve this goal, the project adopts a **learn-by-doing** approach, allowing users of varying modeling expertise – **from novices to experts** – to get familiar with soil erosion modeling concepts and procedures simply by interacting with modelling tools.
+The “soil footprint” is emerging as a crucial concept in sustainable farming, measuring the impact of agriculture on soil erosion.
 
-iMPACT-erosion offers a comprehensive set of **interactive Jupyter Notebooks** and **Python functions** that guide users through the entire hydrological + soil erosion modelling process. These resources are organized into three stages: **Start, Test and Explore**
+As the global population grows, the challenge of feeding everyone without depleting essential natural resources becomes more pressing.
 
-Important: we have included links to run iMPACT Notebooks on the cloud by using [Binder](https://mybinder.org/), so that they are accessible by a web browser **without requiring any local installation**.
+While much focus has been placed on carbon and water footprints, the soil footprint addresses the often-overlooked issue of soil degradation.
 
-### [**1. iMPACT-Start**](https://impact-erosion.github.io/iMPACT-Start.html)
+Tackling soil degradation is key to preserving life and ensuring long-term agricultural productivity.
 
-<img src="Fill_rain_data.gif" alt="Fill rain data" style="width:100%;" >
+## Introducing the soil footprint project
 
-The iMPACT-Start is a set of Notebooks explaining and implementing the starting soil erosion modelling tasks: fill climate data gaps, fill sinks of the digital elevation model (DEM), calculate the flow accumulation of the surface water flow, catchment delineation to define the area of study and soil erosion modelling at the catchment scale
+Scientists Andrés Peñuela, Vanesa García Gamero, and Tom Vanwalleghem at the University of Córdoba have been instrumental in defining and applying the concept of the soil footprint in Spain, where soil erosion presents a critical challenge for agricultural sustainability.
 
-You can run them online here: [iMPACT-Start](https://impact-erosion.github.io/iMPACT-Start.html)
+Through their pioneering work, the experts have brought attention to an often-underappreciated yet vital resource: soil.
 
-You can download them from the iMPACT-erosion Github repository: [iMPACT-Start Github](https://github.com/iMPACT-erosion/iMPACT-erosion/tree/main/iMPACT-Start/)
+Unlike the more widely known carbon and water footprints, this latest footprint specifically focuses on soil – a resource that is frequently overlooked in discussions about environmental sustainability but is just as crucial for supporting life as water, air, or energy.
 
-### [**2. iMPACT-Test**](https://impact-erosion.github.io/iMPACT-Test.html)
+## How is the soil footprint calculated?
 
-The iMPACT-test is a set of Notebooks explaining and implementing the necessary tasks to calibrate and evaluate a soil erosion model: optimal soil sampling, spatial interpolation of sampled data, automatic and manual model calibration, sensitivity and uncertainty analysis.
+Healthy soil is the foundation of productive ecosystems, ensuring food security, biodiversity, and climate resilience.
 
-You can run them online here: [iMPACT-Test](https://impact-erosion.github.io/iMPACT-Test.html)
+The soil footprint quantifies the amount of soil lost during cultivation, offering a clear metric for evaluating agricultural practices. It is calculated by dividing the erosion rate by the crop’s productivity, providing a tangible way to measure the sustainability of farming techniques.
 
-You can download them from the iMPACT-erosion Github repository: [iMPACT-Test Github](https://github.com/iMPACT-erosion/iMPACT-erosion/tree/main/iMPACT-Test/)
-
-### [**3. iMPACT-Explore**](https://impact-erosion.github.io/iMPACT-Explore.html)
-
-The iMPACT-explore is a set of Notebooks explaining and implementing the necessary tasks to simulate and explore a soil erosion system under different conditions and scenarios, to evaluate the efficiency of mitigation strategies and identify the most influential factors.
-
-## Install iMPACT-erosion locally
-
-To install iMPACT-erosion on your computer: [Install iMPACT-erosion](./Install.md/)
+A larger soil footprint indicates significant soil erosion, which can lead to devastating losses in essential nutrients, biodiversity, and the soil’s ability to retain water.
 
 ## Github repository
 
-You can download the Notebooks from the iMPACT-erosion Github repository: 
-
-[iMPACT Github repository](https://github.com/iMPACT-erosion/iMPACT-erosion)
+[Soil footprint Github repository](https://github.com/Soil-footprint)
 
 ## Citation
 
 
+
 ## Acknowledgements
-This project is funded by the European Research Executive Agency (REA) under the HORIZON-MSCA-2021-PF-01 grant agreement 101062258
-
-## License
-Copyright (C) 2023 Andres Peñuela. iMPACT-erosion is released under the [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-
-<img src="iMPACT_concept.png" alt="iMPACT concept" style="width:120%;" >
+This work was supported by the project “Soil footprint, a simple indicator to communicate and manage soil sustainability in Spain” (SoilFoot) (DU.01.MR.21.07 TED2021-132415B-I00), funded by MCIN/AEI/10.13039/501100011033 and the EU “NextGenerationEU”/PRTR.
 
 &nbsp;
 <div class="row">
-  <img src="UCO_logo.png" alt="UCO logo" style="width:20%;" hspace="20"> <img src="Marie_Curie_logo.png" alt="Marie Curie logo" style="width:25%;" hspace="00">
+  <img src="images/UCO_logo.png" alt="UCO logo" style="width:20%;" hspace="20"> <img src="images/soil_footprint_logo.png" alt="Soil_footprint logo" style="width:25%;" hspace="00">
 <div >
