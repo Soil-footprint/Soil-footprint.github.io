@@ -34,7 +34,7 @@ A larger soil footprint indicates significant soil erosion, which can lead to de
 
 ## Citation
 
-
+https://doi.org/10.1016/j.soisec.2024.100156
 
 ## Acknowledgements
 This work was supported by the project “Soil footprint, a simple indicator to communicate and manage soil sustainability in Spain” (SoilFoot) (DU.01.MR.21.07 TED2021-132415B-I00), funded by MCIN/AEI/10.13039/501100011033 and the EU “NextGenerationEU”/PRTR.
