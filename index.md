@@ -4,18 +4,15 @@ nav: false
 
 # Soil footprint: A simple indicator to communicate and quantify soil sustainability
 
-<div style="display: flex;">
-  <img src="images/soil_footprint_logo3.png" alt="huella del suelo"/>
-  <p style="width:40%;">
-    The “soil footprint” is emerging as a crucial concept in sustainable farming, measuring the impact of agriculture on soil erosion.
-	
-	As the global population grows, the challenge of feeding everyone without depleting essential natural resources becomes more pressing.
+[<img src="images/soil_footprint_logo3.png" alt="huella del suelo" style="width:50%;" >]
 
-	While much focus has been placed on carbon and water footprints, the soil footprint addresses the often-overlooked issue of soil degradation.
+The “soil footprint” is emerging as a crucial concept in sustainable farming, measuring the impact of agriculture on soil erosion.
 
-	Tackling soil degradation is key to preserving life and ensuring long-term agricultural productivity.
-  </p>
-</div>
+As the global population grows, the challenge of feeding everyone without depleting essential natural resources becomes more pressing.
+
+While much focus has been placed on carbon and water footprints, the soil footprint addresses the often-overlooked issue of soil degradation.
+
+Tackling soil degradation is key to preserving life and ensuring long-term agricultural productivity.
 
 ## Introducing the soil footprint project
 
