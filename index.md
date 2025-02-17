@@ -4,13 +4,18 @@ nav: false
 
 [<img src="images/soil_footprint_logo3.png" alt="huella del suelo" style="width:50%;" >](./index.md/)
 
-The “soil footprint” is emerging as a crucial concept in sustainable farming, measuring the impact of agriculture on soil erosion.
+<div style="display: flex; gap:10px;">
+  <img src="images/soil_footprint_logo3.png" alt="huella del suelo"/>
+  <p style="width:50%;">
+    The “soil footprint” is emerging as a crucial concept in sustainable farming, measuring the impact of agriculture on soil erosion.
+	
+	As the global population grows, the challenge of feeding everyone without depleting essential natural resources becomes more pressing.
 
-As the global population grows, the challenge of feeding everyone without depleting essential natural resources becomes more pressing.
+	While much focus has been placed on carbon and water footprints, the soil footprint addresses the often-overlooked issue of soil degradation.
 
-While much focus has been placed on carbon and water footprints, the soil footprint addresses the often-overlooked issue of soil degradation.
-
-Tackling soil degradation is key to preserving life and ensuring long-term agricultural productivity.
+	Tackling soil degradation is key to preserving life and ensuring long-term agricultural productivity.
+  </p>
+</div>
 
 ## Introducing the soil footprint project
 
