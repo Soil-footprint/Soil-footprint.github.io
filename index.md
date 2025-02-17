@@ -6,29 +6,31 @@ nav: false
 
 <img src="images/soil_footprint_logo3.png" alt="huella del suelo" style="width:50%;" >
 
-The “soil footprint” is emerging as a crucial concept in sustainable farming, measuring the impact of agriculture on soil erosion.
+The "soil footprint" is a key metric in sustainable farming, measuring agriculture's impact on soil erosion. As the global population grows, balancing food production with resource preservation is crucial. While carbon and water footprints are well-known, soil degradation remains overlooked.
 
-As the global population grows, the challenge of feeding everyone without depleting essential natural resources becomes more pressing.
+## Understanding the Soil Footprint
 
-While much focus has been placed on carbon and water footprints, the soil footprint addresses the often-overlooked issue of soil degradation.
+Researchers Andrés Peñuela, Vanesa García Gamero, and Tom Vanwalleghem from the University of Córdoba have pioneered the soil footprint concept in Spain, where erosion threatens sustainability. Unlike carbon and water footprints, this metric highlights soil loss, guiding efforts to combat degradation.
 
-Tackling soil degradation is key to preserving life and ensuring long-term agricultural productivity.
-
-## Introducing the soil footprint project
-
-Scientists Andrés Peñuela, Vanesa García Gamero, and Tom Vanwalleghem at the University of Córdoba have been instrumental in defining and applying the concept of the soil footprint in Spain, where soil erosion presents a critical challenge for agricultural sustainability.
-
-Through their pioneering work, the experts have brought attention to an often-underappreciated yet vital resource: soil.
-
-Unlike the more widely known carbon and water footprints, this latest footprint specifically focuses on soil – a resource that is frequently overlooked in discussions about environmental sustainability but is just as crucial for supporting life as water, air, or energy.
-
-## How is the soil footprint calculated?
+## Measuring the Soil Footprint
 
 Healthy soil is the foundation of productive ecosystems, ensuring food security, biodiversity, and climate resilience.
 
 The soil footprint quantifies the amount of soil lost during cultivation, offering a clear metric for evaluating agricultural practices. It is calculated by dividing the erosion rate by the crop’s productivity, providing a tangible way to measure the sustainability of farming techniques.
 
-A larger soil footprint indicates significant soil erosion, which can lead to devastating losses in essential nutrients, biodiversity, and the soil’s ability to retain water.
+A high footprint signals excessive erosion, depleting nutrients and water retention capacity.
+
+## Raising Awareness and Action
+
+The goal is to highlight soil erosion, inspiring consumers and farmers to adopt sustainable practices. Just as demand for eco-friendly products influences industries, awareness of soil conservation can drive change.
+
+## Spain’s Case Study
+
+Applying this metric to Spain’s top crops, researchers found that olive trees had the largest footprint, followed by cherries and wheat, while onions, potatoes, and oranges had the smallest. The solution isn’t fewer olive trees but better soil management. Techniques like vegetation cover significantly reduce erosion.
+
+## A Sustainable Future
+
+The soil footprint offers a vital perspective on farming’s environmental impact. Protecting soil is as essential as conserving water and energy. Recognizing and addressing soil erosion is crucial for sustainable agriculture and global food security.
 
 ## Soil-footprint Notebooks
 
