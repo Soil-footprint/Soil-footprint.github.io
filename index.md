@@ -2,7 +2,7 @@
 nav: false
 ---
 
-[<img src="images/soil_footprint_logo3.png" alt="huella del suelo" style="width:50%;" >](./index.md/)
+# Soil footprint: A simple indicator to communicate and quantify soil sustainability
 
 <div style="display: flex; gap:10px;">
   <img src="images/soil_footprint_logo3.png" alt="huella del suelo"/>
