@@ -4,7 +4,7 @@ nav: false
 
 # Soil footprint: A simple indicator to communicate and quantify soil sustainability
 
-[<img src="images/soil_footprint_logo3.png" alt="huella del suelo" style="width:50%;" >]
+<img src="images/soil_footprint_logo3.png" alt="huella del suelo" style="width:50%;" >
 
 The “soil footprint” is emerging as a crucial concept in sustainable farming, measuring the impact of agriculture on soil erosion.
 
