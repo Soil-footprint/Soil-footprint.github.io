@@ -2,7 +2,7 @@
 nav: false
 ---
 
-# Soil footprint: A simple indicator to communicate and quantify soil sustainability
+# A simple indicator to communicate and quantify soil sustainability
 
 <img src="images/soil_footprint_logo_olive.png" style="width: 30%; float:left"><h>
 
