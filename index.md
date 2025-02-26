@@ -14,7 +14,7 @@ Researchers Andrés Peñuela, Vanesa García Gamero, and Tom Vanwalleghem from t
 
 ## Measuring the Soil Footprint
 
-<img src="images/soil_footprint_equation.png" style="width: 100%>
+<img src="images/soil_footprint_equation.png" style="width: 100%">
 
 Healthy soil is the foundation of productive ecosystems, ensuring food security, biodiversity, and climate resilience.
 
@@ -26,9 +26,9 @@ A high footprint signals excessive erosion, depleting nutrients and water retent
 
 The goal is to highlight soil erosion, inspiring consumers and farmers to adopt sustainable practices. Just as demand for eco-friendly products influences industries, awareness of soil conservation can drive change.
 
-## Spain’s Case Study
+<img src="images/soil_footprint_crops_spain.png" style="width: 50%; float:right"><h>
 
-<img src="images/soil_footprint_crops_spain.png" style="width: 50%; float:left"><h>
+## Spain’s Case Study
 
 Applying this metric to Spain’s top crops, researchers found that olive trees had the largest footprint, followed by cherries and wheat, while onions, potatoes, and oranges had the smallest. The solution isn’t fewer olive trees but better soil management. Techniques like vegetation cover significantly reduce erosion.
 
