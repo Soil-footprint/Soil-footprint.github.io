@@ -28,6 +28,8 @@ The goal is to highlight soil erosion, inspiring consumers and farmers to adopt 
 
 ## Spain’s Case Study
 
+<img src="images/soil_footprint_crops_spain.png" style="width: 50%; float:left"><h>
+
 Applying this metric to Spain’s top crops, researchers found that olive trees had the largest footprint, followed by cherries and wheat, while onions, potatoes, and oranges had the smallest. The solution isn’t fewer olive trees but better soil management. Techniques like vegetation cover significantly reduce erosion.
 
 ## A Sustainable Future
