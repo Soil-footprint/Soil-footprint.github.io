@@ -54,6 +54,8 @@ You can run the Notebooks online just by clicking on these links:
 
 ## Citation
 
+You can find the published paper introducing the concept of Soil footprint and the first results in Spain here:
+
 https://doi.org/10.1016/j.soisec.2024.100156
 
 ## Acknowledgements
