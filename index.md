@@ -14,6 +14,8 @@ Researchers Andrés Peñuela, Vanesa García Gamero, and Tom Vanwalleghem from t
 
 ## Measuring the Soil Footprint
 
+<img src="images/soil_footprint_equation.png" style="width: 100%>
+
 Healthy soil is the foundation of productive ecosystems, ensuring food security, biodiversity, and climate resilience.
 
 The soil footprint quantifies the amount of soil lost during cultivation, offering a clear metric for evaluating agricultural practices. It is calculated by dividing the erosion rate by the crop’s productivity, providing a tangible way to measure the sustainability of farming techniques.
