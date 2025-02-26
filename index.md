@@ -14,7 +14,7 @@ Researchers Andrés Peñuela, Vanesa García Gamero, and Tom Vanwalleghem from t
 
 ## Measuring the Soil Footprint
 
-<img src="images/soil_footprint_equation.png" style="width: 100%">
+<img src="images/soil_footprint_equation.png" style="width: 50%">
 
 Healthy soil is the foundation of productive ecosystems, ensuring food security, biodiversity, and climate resilience.
 
