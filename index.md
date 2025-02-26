@@ -4,7 +4,7 @@ nav: false
 
 # Soil footprint: A simple indicator to communicate and quantify soil sustainability
 
-<img src="images/soil_footprint_logo_olive.png" style="width: 50%; float:left"><h>
+<img src="images/soil_footprint_logo_olive.png" style="width: 30%; float:left"><h>
 
 The "soil footprint" is a key metric in sustainable farming, measuring agriculture's impact on soil erosion. As the global population grows, balancing food production with resource preservation is crucial. While carbon and water footprints are well-known, soil degradation remains overlooked.
 
